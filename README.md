@@ -4,6 +4,9 @@ Page that provides GitHub profile details for the user-name provided. Build usin
 Features:
 
 Give GitHub profile details for the user-name entered - by using API 
-Provide social media handles 
+
+Provide social media handles
+
 Switch between light and dark modes
+
 Page is responsive - using media queries
